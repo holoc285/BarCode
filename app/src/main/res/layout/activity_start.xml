@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/a"
+
+
+    android:weightSum="1">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Chào mừng đến ZiZi"
+        android:textColor="#efefef"
+        android:textSize="30dp"
+        android:layout_marginTop="300dp"
+        />
+    <Button
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonDaCoTaiKhoan"
+        android:text="Bạn đã có tài khoản ?"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:background="@color/colorAccent"
+        />
+    <Button
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:id="@+id/buttonChuaCoTaiKhoan"
+        android:text="Cần tạo tài khoản mới ?"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:textColor="#ffffff"
+        android:background="@color/colorAccent"
+        android:gravity="center"
+        />
+</LinearLayout>

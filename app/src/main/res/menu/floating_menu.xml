@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <menu xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto">
+        <item
+            android:id="@+id/actionDiemDanhBoSung"
+            android:icon="@drawable/qrcode"
+            android:title="Điểm danh bổ sung" />
+        <item
+            android:id="@+id/actionDanhSachDiemDanh"
+            android:icon="@drawable/qrcode"
+            android:title="Danh sách điểm danh"/>
+    </menu>

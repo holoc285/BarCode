@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:title="Duyệt danh sách"
+        android:id="@+id/menu_main_duyet"
+        />
+    <item
+        android:title="Danh sách sự kiện"
+        android:id="@+id/menu_main_dssukien"
+        />
+    <item
+        android:title="Thoát tài khoản"
+        android:id="@+id/menu_main_logout"
+        />
+    <item android:icon="@drawable/ico_search"
+        android:id="@+id/menuSearch"
+        android:title="Search"
+        app:showAsAction="always"
+
+        />
+
+</menu>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.android\build-cache\d2bc7eb61cb9ab415fa703a3f07be1a6060db9b5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ba7e8d3dad98f825463bc3b998e5db6176188b32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.android\build-cache\307266029772658430ef0a0a89c3c58e2787733d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0f6650a33264933f77d3d66d237f0774656be1bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.android\build-cache\af3bf179236526c02cf848ee50a6087d9e397e98\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ca390bf5d807a308dd4a217b88080f724d629c67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.android\build-cache\f1c0b5dc4b9ec23fb30b57c686d72935b082e074\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_db9d7aab2ec75f432760e07fc3599835b16be52b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.android\build-cache\75302a1d46e653825db36afcbb64354a4799908d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c924a57db296c47f2a2744fd92c1c21ad8443eab\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ScanQRCODE\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="26e0c4aa71dc41e71cf588ae2352082175d12f3b">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_eb8369b51ba25d3d46bcc78f3076974db3373ee3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.android\build-cache\13f966b924a273f99f8d36f74a8972a886c02a83\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fb690fcb984176dd6bd91318518b83453645a053\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.android\build-cache\cc27e57a78c778b4bee403e486a19ce4373d6a99\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6b1555196d65ffa1174f6f49efb2f278905f537a">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9a7d0fb216739eb4f1d7faa317588165bbc77bb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-2.5.0_4964aa818f1a63e20e7fcd32198030d5ee3c3ff2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.gradle\caches\modules-2\files-2.1\io.reactivex.rxjava2\rxjava\2.1.0\2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1\rxjava-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="2fdf84dedcaaeabb9d70cde9dbb8aad4eccb80a1">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\rxjava-2.1.0_7c3294d312a696c07cc5a54ce292979eb8e92f26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.gradle\caches\modules-2\files-2.1\org.reactivestreams\reactive-streams\1.0.0\14b8c877d98005ba3941c9257cfe09f6ed0e0d74\reactive-streams-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\reactive-streams-1.0.0_7db851fd55e3cdd8920284272129237d4b4d04d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.android\build-cache\b935f4cb871db1f4da0d666fae72ced9e8ca4b66\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="4e7ccc1d51d89540ea7ad426a1934204b674939b">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_25b0d7af9a402de642964459b571269189ae57ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.android\build-cache\27687c6f19a46e42e9299f6b4f7ddaffde2c046b\output\jars\libs\aspectjrt-1.7.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="d07ba649202a9a416135130bd264c63392fc6d7e">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\aspectjrt-1.7.3_b8027af0cb6de16757bc1f69a6b9d2326c272056\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.android\build-cache\40b1165c42e18c9dd4905ef836af17cf5d2b6f40\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d7ee85332449692dc1ad4e5a00f15765e408154\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.android\build-cache\27687c6f19a46e42e9299f6b4f7ddaffde2c046b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="ce9fd4b18d2d19f5dbd4d1ad536742e604e16332">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_955452c8a3c4639154d169d9f2b7811b979d417e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.android\build-cache\dc1603b88a20c0d12206a35b05f11f2d78c66d2f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dbeaff13ee7354146cac13b3a99142752240f0e8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.android\build-cache\46ceb3011d1558d29f42adc23ace08f68846612e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_583d9f716350ebe6b2cd4775dc402dd69c547b12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.android\build-cache\96efc19b40416906dff198fd0c3d7443a6423dd5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3c122fd74d585be42452b5d974eaa37db8b53ef9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.android\build-cache\aa1f826db8ff63881230da9455ef34d424a52578\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_999d2b0cca9c04d2cec650c3e52f4db7232ac5fb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.android\build-cache\597a31818b9a3449c473d4a3d6c2164c9721ed42\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_187fae2b74eed73cb2133d9624cc9431b397c93c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.android\build-cache\65e53c2936b13bd15c644cadfa78af92133994f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d0832dc91b019e71800ef9b77a27c75f0379f997\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.android\build-cache\20cff5f8ffdbce882877fe5e495cde47b17d7201\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="02d0d40b4c5b6b4093af99d696cea903aad9e529">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f718e959cd3ea329786631ad8d92a8776525ea7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.6.0_caccf7ddc1b84ced9f3a202affd78cc76e37e4c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.android\build-cache\246f592c8ef4ab0ac932ec218639ae7eff4acc87\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_552dfb9053512038d007805a5250dec85ea48ac5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\holoc\.android\build-cache\27687c6f19a46e42e9299f6b4f7ddaffde2c046b\output\jars\libs\isoparser-1.0.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="9b30d5a399ea2c215bfe61e8f611d13420fa8dcf">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10\isoparser-1.0.6_a391d5961a982ab3b1f82e9f2783aee80bf4e2c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ScanQRCODE\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="E:\ScanQRCODE\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_7c00e22360bd20371a6a8166e72d9af6350b3f48\classes.dex" />
+    </item>
+
+</items>

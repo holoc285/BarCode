@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:layout_margin="10sp"
+    android:background="#d2916f6f"
+    android:orientation="vertical"
+    tools:context=".activity.MainActivity">
+
+    <TextView
+        android:textColor="#ff00"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:gravity="center"
+        android:text="Điểm danh bổ sung"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="10sp"
+        android:id="@+id/textView" />
+
+    <EditText
+        android:layout_margin="10sp"
+        android:id="@+id/editTextMSSV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nhập mã sinh viên" />
+
+    <EditText
+        android:layout_margin="10sp"
+        android:id="@+id/editTextGhiChu"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nhập ghi chú"
+        android:inputType="text" />
+    <Button
+        android:layout_margin="10sp"
+        android:id="@+id/buttonAdd"
+        android:background="@color/colorAccent"
+        android:text="Thêm"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_margin="10sp"
+        android:id="@+id/buttonHuy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hủy" />
+</LinearLayout>

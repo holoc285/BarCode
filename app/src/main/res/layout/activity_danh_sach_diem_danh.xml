@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.holoc.scanqrcode.activity.DanhSachDiemDanhActivity">
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolBarDanhSachDiemDanh"
+        android:layout_width="match_parent"
+        app:title="Danh Sách Điểm Danh"
+        android:background="#e038cab4"
+        android:layout_height="?actionBarSize">
+    </android.support.v7.widget.Toolbar>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <ListView
+            android:id="@+id/listViewDanhSachDiemDanh"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        </ListView>
+        <TextView
+            android:id="@+id/textViewDanhSachDiemDanhRong"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:textSize="40sp"
+            android:textColor="#dc1414"
+            android:textStyle="bold"
+            android:text="Danh sách điểm danh rỗng"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+    </FrameLayout>
+</LinearLayout>

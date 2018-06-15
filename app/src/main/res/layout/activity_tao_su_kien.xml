@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.holoc.scanqrcode.activity.TaoSuKienActivity">
+
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolBarTaoSuKien"
+        android:layout_width="match_parent"
+        android:layout_height="?actionBarSize"
+        android:background="@color/colorPrimaryDark"
+        app:title="TẠO SỰ KIỆN"
+        app:titleTextColor="@color/zxing_status_text"
+        tools:layout_editor_absoluteX="48dp"
+        tools:layout_editor_absoluteY="-129dp" />
+    <EditText
+        android:id="@+id/tensk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_x="38dp"
+        android:layout_y="18dp"
+        android:hint="Tên sự kiện"
+        android:paddingTop="5dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginStart="20dp" />
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <Spinner
+                android:id="@+id/donvi"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_x="38dp"
+                android:layout_y="76dp" />
+
+            <EditText
+                android:id="@+id/ngay"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_x="40dp"
+                android:layout_y="168dp"
+                android:hint="Ngày diễn ra"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp" />
+
+            <EditText
+                android:id="@+id/tgbatdau"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_x="42dp"
+                android:layout_y="238dp"
+                android:hint="Thời gian bắt đầu"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp" />
+
+            <EditText
+                android:id="@+id/tgketthuc"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_x="42dp"
+                android:layout_y="306dp"
+                android:hint="Thời gian kết thúc"
+                app:layout_constraintLeft_toLeftOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/tgbatdau" />
+
+            <EditText
+                android:id="@+id/chuthich"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"
+                android:layout_x="43dp"
+                android:layout_y="354dp"
+                android:hint="Chú thích" />
+
+
+            <Button
+                android:id="@+id/tao"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginStart="20dp"
+                android:layout_marginTop="15dp"
+                android:layout_x="120dp"
+                android:layout_y="440dp"
+                android:background="@color/colorPrimaryDark"
+                android:text="TẠO"
+                android:textColor="@color/zxing_status_text"
+                app:layout_constraintTop_toBottomOf="@+id/suangay" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:layout_margin="20sp"
+    android:padding="20sp"
+    android:layout_height="match_parent">
+    <TextView
+        android:id="@+id/textViewMssv"
+        android:textSize="25sp"
+        android:text="MSSV"
+        android:textColor="#000"
+        android:layout_gravity="center_vertical"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:id="@+id/textViewGioDiemDanh"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:text="Gio Diem Danh"
+        android:textColor="#000"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textViewGhiChu"
+        android:textSize="25sp"
+        android:textColor="#000"
+        android:text="Ghi Chu"
+        android:layout_gravity="center_vertical"
+        android:textStyle="bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>
